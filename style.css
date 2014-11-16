@@ -1,0 +1,29 @@
+.navbar-right{}
+.extrime{text-align:center;}
+.extrime p{margin-top:20px;}
+.tabbable img.thumbnail{margin:0 20px 10px 0;}
+#inputMessage{margin-bottom:15px;}
+#myCourses{margin:20px 0;}
+.thumbnail{position:relative; }
+.thumbnail h3{margin:0 0 10px;
+font-size:16px;
+line-height:20px;}
+.thumbnail .price{position:absolute;
+font-size:16px;
+top:-10px;
+right:-10px;
+padding:10px;}
+.thumbnail .price sup{
+font-weight:normal;
+font-size:16px;
+}
+.thumbnail span.glyphicon{margin-right:5px;}
+footer{
+background:#333;
+color:#eee;
+padding:20px;
+}
+ul.unstyled{
+list-style:none;
+padding:0;
+}
